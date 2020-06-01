@@ -1,2 +1,2 @@
 # formulaGen
-An mobile application for formula customization and calculation.
+A mobile application for formula customization and calculation.
